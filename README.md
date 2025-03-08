@@ -1,49 +1,53 @@
-<!-- Banner -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+|+AI+Enthusiast+|+Full-Stack+Ninja;Crafting+the+future+with+code+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Hey!+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+%7C+AI+Enthusiast+%7C+Tech+Ninja;Building+the+Future+with+Code+%F0%9F%9A%80">
 </p>
 
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariskokane&theme=radical" />
+  <img src="https://user-images.githubusercontent.com/63183180/200687659-2f715f70-2b27-4c27-9a3d-37a2e18d06d0.gif" />
 </p>
 
 ---
 
-## 🚀 About Me  
-👋 Hey there! I’m a passionate **Software Developer, AI Enthusiast, and Full-Stack Engineer** constantly exploring the **next big thing in tech**.  
-- 🎓 **B.Tech in Computer Science & Engineering** (2024 – 2026)  
-- 🏆 **Hackathon Champion & Finalist** (Smart Industry Hackathon 4.0, Pixel Wizard, EY Techathon 5.0)  
-- 💡 I build AI-driven applications, optimize software, and create futuristic web experiences.  
-- 🔥 **Focused on:** AI, Full-Stack Dev, Scalable Systems & Problem-Solving.  
+## 🌟 Who Am I?  
+🔥 **AI Innovator | Full-Stack Sorcerer | Hackathon Gladiator**  
+👨‍💻 I craft **high-performance, AI-powered, and scalable** solutions that redefine industries.  
+🚀 I live on **clean code, machine learning, and killer UI/UX design**.  
 
-📌 **"Code. Innovate. Disrupt. Repeat."**  
+🎓 **B.Tech in Computer Science & Engineering** (2024 – 2026)  
+🏆 **Hackathon Finalist & Winner** (Smart Industry Hackathon 4.0, EY Techathon 5.0)  
+🛠 **Pro at:** AI, Full-Stack Web Dev, Data Science, Automation  
+
+💡 **"Dream big. Code hard. Break barriers."**  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-### **💻 Languages & Frameworks**
+## 🚀 Tech Stack & Skills  
+### 🖥️ **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,react,nextjs,tailwind" />
 </p>
 
-### **🧠 AI, ML & Data Science**
+### 🤖 **AI & Machine Learning**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" />
 </p>
 
-### **🗄️ Databases**
+### 🗄️ **Databases**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
 </p>
 
-### **⚒️ Tools & Platforms**
+### ⚡ **Tools & Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
 </p>
 
 ---
 
-## 🏆 Featured Projects  
+## 🏆 Hackathon-Winning Projects  
+
 ### 🔥 **Defect Detection System (YOLOv8) – Smart Industry Hackathon 4.0**  
 ✔ **AI-powered defect detection system** with **95% accuracy**  
 ✔ Reduced defect detection time by **30%**  
@@ -59,7 +63,8 @@
 
 ---
 
-## 🏅 Work Experience  
+## 💼 Work Experience  
+
 ### 🚀 **Web Development Intern @ Mind IT (July 2024 – August 2024)**  
 ✔ Optimized frontend components, boosting page load speed by **20%**  
 ✔ Refactored & streamlined code, slashing dev time by **30%**  
@@ -68,7 +73,19 @@
 
 ---
 
-## 📜 Certifications  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hariskokane&theme=dracula&no-bg=true&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🎖️ Certifications  
 🏅 **Python Development** – Udemy | Horizon Tech (2025)  
 📊 **Data Analysis** – 30-Days-Coding (2024)  
 ☕ **Java Development** – Udemy | Sara Academy (2023)  
@@ -76,11 +93,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=radical" width="49%" />
-</p>
+## 🎬 Fun Facts About Me  
+🚀 I automate **everything** (from workflows to coffee machines ☕)  
+🎯 I love **competitive coding & hackathons**  
+🕹️ When I'm not coding, I'm **gaming or exploring AI advancements**  
 
 ---
 
@@ -99,4 +115,4 @@
 
 ---
 
-💡 **"Dream Big. Code Hard. Build the Future."** 🚀  
+🔥 **"Code like a wizard, build like an engineer, and dream like an innovator!"** 🚀  
