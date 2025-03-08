@@ -94,8 +94,7 @@
   </a>
 </p>
 
-📧 **Email:** hariskokane0@gmail.com  
-📞 **Mobile:** +91 9372850377  
+📧 **Email:** hariskokane0@gmail.com   
 
 ---
 
