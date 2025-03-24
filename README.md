@@ -11,7 +11,7 @@
 
 ## 🚀 About Me  
 👋 Hey there! I’m a passionate **Software Developer, AI Enthusiast, and Full-Stack Engineer** constantly exploring the **next big thing in tech**.  
-- 🎓 **B.Tech in Computer Science & Engineering** (2024 – 2026)  
+- 🎓 **B.Tech in Computer Science & Engineering** (2022 – 2026)  
 - 🏆 **Hackathon Champion & Finalist** (Smart Industry Hackathon 4.0, Pixel Wizard, EY Techathon 5.0)  
 - 💡 I build AI-driven applications, optimize software, and create futuristic web experiences.  
 - 🔥 **Focused on:** AI, Full-Stack Dev, Scalable Systems & Problem-Solving.  
