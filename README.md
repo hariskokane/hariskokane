@@ -25,63 +25,58 @@
 
 ### 💻 **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,react,nextjs" /><br>
-  <b>Python, C++, Java, JavaScript, HTML, CSS, Bootstrap, React.js, Next.js</b>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+</p>
+
+<p align="center">
+  <b>Python &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp; Bootstrap &nbsp;&nbsp;&nbsp;&nbsp; React.js &nbsp;&nbsp;&nbsp;&nbsp; Next.js</b>
 </p>
 
 ### 🧠 **AI, ML & Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" /><br>
-  <b>TensorFlow, PyTorch, OpenCV, Pandas, NumPy</b>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" height="40"/>
+</p>
+
+<p align="center">
+  <b>TensorFlow &nbsp;&nbsp;&nbsp;&nbsp; PyTorch &nbsp;&nbsp;&nbsp;&nbsp; OpenCV &nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp; NumPy</b>
 </p>
 
 ### 🗄️ **Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" /><br>
-  <b>MySQL, MongoDB, Firebase, Supabase</b>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+</p>
+
+<p align="center">
+  <b>MySQL &nbsp;&nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp;&nbsp; Firebase &nbsp;&nbsp;&nbsp;&nbsp; Supabase</b>
 </p>
 
 ### ⚒️ **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" /><br>
-  <b>Git, GitHub, VS Code, PyCharm, Jupyter Notebook</b>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" height="40"/>
 </p>
 
----
-
-## 🏆 Featured Projects  
-
-### 🔥 **Defect Detection System (YOLOv8) – Smart Industry Hackathon 4.0**  
-✔ **AI-powered defect detection system** with **95% accuracy**  
-✔ Reduced defect detection time by **30%**  
-✔ **Tech Stack:** Python | OpenCV | TensorFlow | YOLOv8  
-<img src="https://user-images.githubusercontent.com/your-gif.gif" width="600" alt="Project GIF" />
-
-### 💡 **AI-Powered Career Assistant – EY Techathon 5.0**  
-✔ **AI-driven career matcher**, improving job match accuracy by **20%**  
-✔ Built a **blazing-fast frontend** with React.js + TypeScript + Vite  
-✔ Integrated **Supabase backend** + Hybrid AI logic (LLama 2)  
-✔ **Tech Stack:** React.js | TypeScript | Vite | Supabase | LLama 2  
-<img src="https://user-images.githubusercontent.com/your-gif.gif" width="600" alt="Project GIF" />
-
-🚀 **More Projects?** ➝ [GitHub Portfolio](https://github.com/hariskokane)  
-
----
-
-## 🏅 Work Experience  
-### 🚀 **Web Development Intern @ Mind IT (July 2024 – August 2024)**  
-✔ Optimized frontend components, boosting page load speed by **20%**  
-✔ Refactored & streamlined code, slashing dev time by **30%**  
-✔ Enhanced **UI/UX**, driving user engagement up **25%**  
-✔ Collaborated in a **5-member dev team**, maximizing efficiency  
-
----
-
-## 📜 Certifications  
-🏅 **Python Development** – Udemy | Horizon Tech (2025)  
-📊 **Data Analysis** – 30-Days-Coding (2024)  
-☕ **Java Development** – Udemy | Sara Academy (2023)  
-🌍 **Full Stack Web Development** – 30-Days-Coding (2023)  
+<p align="center">
+  <b>Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; PyCharm &nbsp;&nbsp;&nbsp;&nbsp; Jupyter Notebook</b>
+</p>
 
 ---
 
