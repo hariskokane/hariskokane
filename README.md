@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+|+AI+Enthusiast+|+Full-Stack+Ninja;Crafting+the+Future+with+Code+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Dev+|+AI+Enthusiast+|+Full-Stack+Dev;Crafting+the+Future+with+Code+💻" />
 </h1>
 
 <p align="center">
