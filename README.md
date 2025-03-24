@@ -32,7 +32,7 @@
 
 ### **🧠 AI, ML & Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" height="90" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv," height="90" />
 </p>
 <p align="center">
   <strong>TensorFlow &nbsp;&bull;&nbsp; PyTorch &nbsp;&bull;&nbsp; OpenCV &nbsp;&bull;&nbsp; Pandas &nbsp;&bull;&nbsp; NumPy</strong>
@@ -48,7 +48,7 @@
 
 ### **⚒️ Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" height="90" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm," height="90" />
 </p>
 <p align="center">
   <strong>Git &nbsp;&bull;&nbsp; GitHub &nbsp;&bull;&nbsp; VS Code &nbsp;&bull;&nbsp; PyCharm &nbsp;&bull;&nbsp; Jupyter Notebook &nbsp;&bull;&nbsp;</strong>
