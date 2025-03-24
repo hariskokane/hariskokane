@@ -32,7 +32,7 @@
 
 ### **🧠 AI, ML & Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv," height="90" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="90" />
 </p>
 <p align="center">
   <strong>TensorFlow &nbsp;&bull;&nbsp; PyTorch &nbsp;&bull;&nbsp; OpenCV &nbsp;&bull;&nbsp; Pandas &nbsp;&bull;&nbsp; NumPy</strong>
