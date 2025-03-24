@@ -23,22 +23,41 @@
 ## 🛠️ Tech Stack & Skills  
 ### **💻 Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40" />  
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />  
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="40" />  
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="40" />  
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" height="40" />  
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" height="40" />  
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="40" />  
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" height="40" />  
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="40" />  
 </p>
 
 ### **🧠 AI, ML & Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" height="40" />  
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" height="40" />  
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" height="40" />  
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" height="40" />  
+  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" height="40" />  
 </p>
 
 ### **🗄️ Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40" />  
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />  
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40" />  
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="40" />  
 </p>
 
 ### **⚒️ Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />  
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" />  
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40" />  
+  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" height="40" />  
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" height="40" />  
 </p>
 
 ---
