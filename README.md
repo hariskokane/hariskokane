@@ -11,68 +11,58 @@
 
 ## 🚀 About Me  
 👋 Hey there! I’m a passionate **Software Developer, AI Enthusiast, and Full-Stack Engineer** constantly exploring the **next big thing in tech**.  
-- 🎓 **B.Tech in Computer Science & Engineering** (2022 – 2026)  
-- 💡 I build AI-driven applications, optimize software, and create futuristic web experiences.  
-- 🔥 **Focused on:** AI, Full-Stack Dev, Scalable Systems & Problem-Solving.
-- 🏆 **Hackathon Champion & Finalist** (Smart Industry Hackathon 4.0, EY Techathon 5.0)   
+
+🎓 **B.Tech in Computer Science & Engineering** (2022 – 2026)  
+💡 I build **AI-driven applications, optimize software, and create futuristic web experiences**.  
+🔥 **Focused on:** AI, Full-Stack Dev, Scalable Systems & Problem-Solving  
+🏆 **Hackathon Champion & Finalist** (Smart Industry Hackathon 4.0, EY Techathon 5.0)  
 
 📌 **"Code. Innovate. Disrupt. Repeat."**  
 
 ---
 
 ## 🛠️ Tech Stack & Skills  
-### **💻 Languages & Frameworks**
+
+### 💻 **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40" />  
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40" />  
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="40" />  
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="40" />  
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" height="40" />  
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" height="40" />  
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="40" />  
-  <img src="https://skillicons.dev/icons?i=react" title="React.js" height="40" />  
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="40" />  
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,react,nextjs" /><br>
+  <b>Python, C++, Java, JavaScript, HTML, CSS, Bootstrap, React.js, Next.js</b>
 </p>
 
-### **🧠 AI, ML & Data Science**
+### 🧠 **AI, ML & Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" height="40" />  
-  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" height="40" />  
-  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" height="40" />  
-  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" height="40" />  
-  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" height="40" />  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" /><br>
+  <b>TensorFlow, PyTorch, OpenCV, Pandas, NumPy</b>
 </p>
 
-### **🗄️ Databases**
+### 🗄️ **Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="40" />  
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />  
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="40" />  
-  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" height="40" />  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" /><br>
+  <b>MySQL, MongoDB, Firebase, Supabase</b>
 </p>
 
-### **⚒️ Tools & Platforms**
+### ⚒️ **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40" />  
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40" />  
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="40" />  
-  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" height="40" />  
-  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" height="40" />  
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" /><br>
+  <b>Git, GitHub, VS Code, PyCharm, Jupyter Notebook</b>
 </p>
 
 ---
 
 ## 🏆 Featured Projects  
+
 ### 🔥 **Defect Detection System (YOLOv8) – Smart Industry Hackathon 4.0**  
 ✔ **AI-powered defect detection system** with **95% accuracy**  
 ✔ Reduced defect detection time by **30%**  
 ✔ **Tech Stack:** Python | OpenCV | TensorFlow | YOLOv8  
+<img src="https://user-images.githubusercontent.com/your-gif.gif" width="600" alt="Project GIF" />
 
 ### 💡 **AI-Powered Career Assistant – EY Techathon 5.0**  
 ✔ **AI-driven career matcher**, improving job match accuracy by **20%**  
 ✔ Built a **blazing-fast frontend** with React.js + TypeScript + Vite  
 ✔ Integrated **Supabase backend** + Hybrid AI logic (LLama 2)  
 ✔ **Tech Stack:** React.js | TypeScript | Vite | Supabase | LLama 2  
+<img src="https://user-images.githubusercontent.com/your-gif.gif" width="600" alt="Project GIF" />
 
 🚀 **More Projects?** ➝ [GitHub Portfolio](https://github.com/hariskokane)  
 
@@ -113,7 +103,7 @@
   </a>
 </p>
 
-📧 **Email:** hariskokane0@gmail.com   
+📧 **Email:** hariskokane0@gmail.com  
 
 ---
 
