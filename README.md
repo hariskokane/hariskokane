@@ -48,7 +48,7 @@
 
 ### **⚒️ Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm," height="90" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="90" />
 </p>
 <p align="center">
   <strong>Git &nbsp;&bull;&nbsp; GitHub &nbsp;&bull;&nbsp; VS Code &nbsp;&bull;&nbsp; PyCharm &nbsp;&bull;&nbsp; Jupyter Notebook &nbsp;&bull;&nbsp;</strong>
