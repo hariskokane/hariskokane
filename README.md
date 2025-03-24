@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+|+AI+Enthusiast+|+Full-Stack+Ninja;Crafting+the+future+with+code+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+|+AI+Enthusiast+|+Full-Stack+Ninja;Crafting+the+Future+with+Code+💻" />
 </p>
 
 <p align="center">
@@ -10,14 +10,11 @@
 ---
 
 ## 🚀 About Me  
-👋 Hey there! I’m a passionate **Software Developer, AI Enthusiast, and Full-Stack Engineer** constantly exploring the **next big thing in tech**.  
-
 🎓 **B.Tech in Computer Science & Engineering** (2022 – 2026)  
-💡 I build **AI-driven applications, optimize software, and create futuristic web experiences**.  
-🔥 **Focused on:** AI, Full-Stack Dev, Scalable Systems & Problem-Solving  
+💡 Passionate about **AI-driven applications, full-stack development & scalable systems**.  
+🔥 **Specializing in:** AI, Full-Stack Development, Problem-Solving, and System Optimization.  
 🏆 **Hackathon Champion & Finalist** (Smart Industry Hackathon 4.0, EY Techathon 5.0)  
-
-📌 **"Code. Innovate. Disrupt. Repeat."**  
+📌 **Motto:** `"Code. Innovate. Disrupt. Repeat."`  
 
 ---
 
@@ -25,58 +22,70 @@
 
 ### 💻 **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,bootstrap,react,nextjs" />
 </p>
-
 <p align="center">
-  <b>Python &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp;&nbsp; HTML &nbsp;&nbsp;&nbsp;&nbsp; CSS &nbsp;&nbsp;&nbsp;&nbsp; Bootstrap &nbsp;&nbsp;&nbsp;&nbsp; React.js &nbsp;&nbsp;&nbsp;&nbsp; Next.js</b>
+  <b>Python &nbsp;&bull;&nbsp; C++ &nbsp;&bull;&nbsp; Java &nbsp;&bull;&nbsp; JavaScript &nbsp;&bull;&nbsp; HTML &nbsp;&bull;&nbsp; CSS &nbsp;&bull;&nbsp; Bootstrap &nbsp;&bull;&nbsp; React.js &nbsp;&bull;&nbsp; Next.js</b>
 </p>
 
 ### 🧠 **AI, ML & Data Science**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" />
 </p>
-
 <p align="center">
-  <b>TensorFlow &nbsp;&nbsp;&nbsp;&nbsp; PyTorch &nbsp;&nbsp;&nbsp;&nbsp; OpenCV &nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp; NumPy</b>
+  <b>TensorFlow &nbsp;&bull;&nbsp; PyTorch &nbsp;&bull;&nbsp; OpenCV &nbsp;&bull;&nbsp; Pandas &nbsp;&bull;&nbsp; NumPy</b>
 </p>
 
 ### 🗄️ **Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
 </p>
-
 <p align="center">
-  <b>MySQL &nbsp;&nbsp;&nbsp;&nbsp; MongoDB &nbsp;&nbsp;&nbsp;&nbsp; Firebase &nbsp;&nbsp;&nbsp;&nbsp; Supabase</b>
+  <b>MySQL &nbsp;&bull;&nbsp; MongoDB &nbsp;&bull;&nbsp; Firebase &nbsp;&bull;&nbsp; Supabase</b>
 </p>
 
 ### ⚒️ **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
+</p>
+<p align="center">
+  <b>Git &nbsp;&bull;&nbsp; GitHub &nbsp;&bull;&nbsp; VS Code &nbsp;&bull;&nbsp; PyCharm &nbsp;&bull;&nbsp; Jupyter Notebook</b>
 </p>
 
-<p align="center">
-  <b>Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; PyCharm &nbsp;&nbsp;&nbsp;&nbsp; Jupyter Notebook</b>
-</p>
+---
+
+## 🏆 Featured Projects  
+
+### 🔥 **Defect Detection System (YOLOv8) – Smart Industry Hackathon 4.0**  
+✔ **AI-powered defect detection system** with **95% accuracy**  
+✔ Reduced defect detection time by **30%**  
+✔ **Tech Stack:** Python | OpenCV | TensorFlow | YOLOv8  
+
+### 💡 **AI-Powered Career Assistant – EY Techathon 5.0**  
+✔ **AI-driven career matcher**, improving job match accuracy by **20%**  
+✔ Built a **blazing-fast frontend** with React.js + TypeScript + Vite  
+✔ Integrated **Supabase backend** + Hybrid AI logic (LLama 2)  
+✔ **Tech Stack:** React.js | TypeScript | Vite | Supabase | LLama 2  
+
+🚀 **More Projects?** ➝ [GitHub Portfolio](https://github.com/hariskokane)  
+
+---
+
+## 🏅 Work Experience  
+
+### 🚀 **Web Development Intern @ Mind IT (July 2024 – August 2024)**  
+✔ Optimized frontend components, boosting page load speed by **20%**  
+✔ Refactored & streamlined code, slashing dev time by **30%**  
+✔ Enhanced **UI/UX**, driving user engagement up **25%**  
+✔ Collaborated in a **5-member dev team**, maximizing efficiency  
+
+---
+
+## 📜 Certifications  
+🏅 **Python Development** – Udemy | Horizon Tech (2025)  
+📊 **Data Analysis** – 30-Days-Coding (2024)  
+☕ **Java Development** – Udemy | Sara Academy (2023)  
+🌍 **Full Stack Web Development** – 30-Days-Coding (2023)  
 
 ---
 
