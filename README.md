@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-image-hosting-link.com/static-heading.png" alt="Profile Header" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariskokane&theme=radical" width="85%" />
