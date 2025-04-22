@@ -1,7 +1,10 @@
 <!-- Banner -->
-<h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+|+AI+Enthusiast+|+Full-Stack+Ninja;Crafting+the+Future+with+Code+💻" />
-</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey,+I'm+Mohammad+Haris+Juber+Kokane!;Software+Developer+|+AI+Enthusiast+|+Full-Stack+Ninja;Crafting+the+Future+with+Code+💻" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariskokane&theme=radical" width="85%" />
