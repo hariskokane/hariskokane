@@ -81,13 +81,6 @@
 ✔ Enhanced **UI/UX**, driving user engagement up **25%**  
 ✔ Collaborated in a **5-member dev team**, maximizing efficiency  
 
----
-
-## 📜 **Certifications**
-🏅 **Python Development** – Udemy | Horizon Tech (2025)  
-📊 **Data Analysis** – 30-Days-Coding (2024)  
-☕ **Java Development** – Udemy | Sara Academy (2023)  
-🌍 **Full Stack Web Development** – 30-Days-Coding (2023)  
 
 ---
 
