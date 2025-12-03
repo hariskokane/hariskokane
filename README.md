@@ -132,5 +132,5 @@ A modern, interactive personal portfolio built using React, TailwindCSS, Three.j
 
 💡 **"Dream Big. Code Hard. Build the Future."** 🚀  
 
-https://buymeacoffee.com/anos_voldigoad
+https://ko-fi.com/anosvoldigoad197
 
