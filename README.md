@@ -6,7 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=HARIS%20KOKANE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Building+the+future+with+code;🤖+AI-powered+solutions+developer;💡+Hackathon+Champion+%26+Innovator;🎯+Turning+ideas+into+reality" alt="Typing SVG" />
+  <a href="https://github.com/hariskokane">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=🚀+Building+the+future+with+code" alt="Typing SVG" />
+  </a>
   
   <!-- Social Badges -->
   <p align="center">
@@ -119,16 +121,15 @@ const haris = {
 <div align="center">
   
   <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=FFFFFF" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" width="49%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=radical&count_private=true" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=radical" width="49%" alt="Streak"/>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskokane&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=FF6B6B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskokane&theme=react-dark" width="100%" alt="Activity Graph"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskokane&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="35%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariskokane&theme=tokyonight" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariskokane&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskokane&layout=compact&theme=radical" width="45%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariskokane&theme=radical" width="53%" alt="Profile Summary"/>
   
 </div>
 
