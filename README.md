@@ -1,136 +1,277 @@
+<!-- 🌟 HIGHLIGHT: Professional README with Advanced Visual Elements 🌟 -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariskokane&theme=radical" width="85%" />
+  
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=HARIS%20KOKANE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+Building+the+future+with+code;🤖+AI-powered+solutions+developer;💡+Hackathon+Champion+%26+Innovator;🎯+Turning+ideas+into+reality" alt="Typing SVG" />
+  
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hariskokane">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:hariskokane0@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+    </a>
+    <a href="https://github.com/hariskokane?tab=followers">
+      <img src="https://img.shields.io/github/followers/hariskokane?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub followers"/>
+    </a>
+    <a href="https://ko-fi.com/anosvoldigoad197">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+    </a>
+  </p>
+  
 </div>
 
 ---
 
-## 📑 Table of Contents
-- [🚀 About Me](#-about-me)
-- [🛠️ Tech Stack & Skills](#️-tech-stack--skills)
-- [🌐 Live Projects](#-live-projects)
-- [🏆 Featured Projects](#-featured-projects)
-- [🏅 Work Experience](#-work-experience)
-- [📜 Certifications & Achievements](#-certifications--achievements)
-- [📊 GitHub Stats](#-github-stats)
-- [🌍 Connect with Me](#-connect-with-me)
-
----
-
-## 🚀 **About Me**
-🔹 **B.Tech in Computer Science & Engineering (2022 – 2026)**  
-🔹 **Passionate about:** AI, Full-Stack Development & Scalable Systems  
-🔹 **Specialties:** AI-driven Apps, Web Dev, Optimization, and Problem-Solving  
-🔹 **Hackathon Champion & Finalist** (🏆 Smart Industry Hackathon 4.0, EY Techathon 5.0)  
-🔹 **Tech Enthusiast on a mission to innovate and disrupt!** 🚀  
-
-📌 **"Code. Innovate. Disrupt. Repeat."**  
-
----
-
-## 🛠️ **Tech Stack & Skills**
-
-### 💻 **Languages & Frameworks**
+<!-- � QUICK INTRO -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,bootstrap,react,nextjs" height="90" />
-</div>
-<div align="center">
-  <strong>Python &nbsp;&bull;&nbsp; C++ &nbsp;&bull;&nbsp; Java &nbsp;&bull;&nbsp; JavaScript &nbsp;&bull;&nbsp; TypeScript &nbsp;&bull;&nbsp; HTML &nbsp;&bull;&nbsp; CSS &nbsp;&bull;&nbsp; Bootstrap &nbsp;&bull;&nbsp; React.js &nbsp;&bull;&nbsp; Next.js</strong>
-</div>
-
-### 🧠 **AI, ML & Data Science**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="90" />
-</div>
-<div align="center">
-  <strong>TensorFlow &nbsp;&bull;&nbsp; PyTorch &nbsp;&bull;&nbsp; OpenCV &nbsp;&bull;&nbsp; Pandas &nbsp;&bull;&nbsp; NumPy</strong>
-</div>
-
-### 🗄️ **Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" height="90" />
-</div>
-<div align="center">
-  <strong>MySQL &nbsp;&bull;&nbsp; MongoDB &nbsp;&bull;&nbsp; Firebase &nbsp;&bull;&nbsp; Supabase</strong>
-</div>
-
-### ⚒️ **Tools & Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="90" />
-</div>
-<div align="center">
-  <strong>Git &nbsp;&bull;&nbsp; GitHub &nbsp;&bull;&nbsp; VS Code &nbsp;&bull;&nbsp; PyCharm &nbsp;&bull;&nbsp; Jupyter Notebook</strong>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=hariskokane&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS)
+  
+  **🎓 B.Tech in Computer Science & Engineering (2022 – 2026)**
+  
+  **🏆 Hackathon Champion** | **🤖 AI Developer** | **🌐 Full-Stack Engineer**
+  
 </div>
 
 ---
 
-## 🌐 **Live Projects**
+## 🧑‍💻 About Me
 
-### 🎯 [Portfolio Website](https://hariskonane-portfolio.vercel.app/)
-A modern, interactive personal portfolio built using React, TailwindCSS, Three.js, and Framer Motion. Includes animated avatar, particles, and dynamic skill showcase.
+<table>
+<tr>
+<td width="50%">
 
----
+### 👋 Who Am I?
 
-## 🏆 **Featured Projects**
+- 🎓 **CS Undergraduate** passionate about building scalable systems
+- 🤖 **AI/ML Enthusiast** with hands-on project experience
+- 🏆 **Hackathon Winner** - Smart Industry Hackathon 4.0
+- 💼 **Ex-Intern** at Mind IT (Web Development)
+- � **Mission:** Build products that make a difference
 
-### 🔥 **Defect Detection System (YOLOv8) – Smart Industry Hackathon 4.0**  
-✔ **AI-powered defect detection system** with **95% accuracy**  
-✔ Reduced defect detection time by **30%**  
-✔ **Tech Stack:** Python | OpenCV | TensorFlow | YOLOv8  
+</td>
+<td width="50%">
 
-### 💡 **AI-Powered Career Assistant – EY Techathon 5.0**  
-✔ **AI-driven career matcher**, improving job match accuracy by **20%**  
-✔ Built a **blazing-fast frontend** with React.js + TypeScript + Vite  
-✔ Integrated **Supabase backend** + Hybrid AI logic (LLama 2)  
-✔ **Tech Stack:** React.js | TypeScript | Vite | Supabase | LLama 2  
+### 📊 Current Focus
 
-🚀 **More Projects?** ➝ [GitHub Portfolio](https://github.com/hariskokane)
+```javascript
+const haris = {
+    currentlyLearning: ["GenAI", "System Design"],
+    workingOn: ["AI-Powered Applications"],
+    askMeAbout: ["Web Dev", "AI/ML", "Tech"],
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
 
----
-
-## 🏅 **Work Experience**
-
-### 🚀 **Web Development Intern @ Mind IT (July 2024 – August 2024)**  
-✔ Optimized frontend components, boosting page load speed by **20%**  
-✔ Refactored & streamlined code, slashing dev time by **30%**  
-✔ Enhanced **UI/UX**, driving user engagement up **25%**  
-✔ Collaborated in a **5-member dev team**, maximizing efficiency  
-
----
-
-## 📜 **Certifications & Achievements**
-- ✅ Java Programming – Sara Academy (Udemy)
-- ✅ Python Programming – Horizon Tech
-- 🏆 EY Techathon 5.0 Finalist
-- 🏆 Smart Industry Hackathon 4.0 Winner
-- 🎯 Finalist – SIH 5.0
-- 📊 NCAT Rank – 3249 (All India)
-- 🎤 Cluster Finalist – TATA Crucible Campus Quiz 2024
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 **GitHub Stats**
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=radical&count_private=true&hide_border=true&hide_title=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=radical&hide_border=true" width="49%" />
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧠 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
 ---
 
-## 🌍 **Connect with Me**
-<div align="center">
-  <a href="https://www.linkedin.com/in/hariskokane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  <a href="https://github.com/hariskokane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-  </a>
-</div>
+## 📈 GitHub Analytics
 
-📧 **Email:** hariskokane0@gmail.com  
+<div align="center">
+  
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=FFFFFF" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" width="49%" alt="Streak"/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskokane&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=FF6B6B&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskokane&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="35%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariskokane&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariskokane&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  
+</div>
 
 ---
 
-💡 **"Dream Big. Code Hard. Build the Future."** 🚀  
+## 🏆 Featured Projects
 
-https://ko-fi.com/anosvoldigoad197
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Defect Detection System
+**Smart Industry Hackathon 4.0 Winner**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+- ✅ **95% accuracy** in defect detection
+- ✅ **30% faster** detection time
+- ✅ Real-time manufacturing quality control
+
+</td>
+<td width="50%">
+
+### 💡 AI Career Assistant
+**EY Techathon 5.0 Finalist**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LLaMA2](https://img.shields.io/badge/LLaMA2-FF6F00?style=flat-square)
+
+- ✅ **20% better** job match accuracy
+- ✅ Hybrid AI with LLaMA 2 integration
+- ✅ Supabase backend + React frontend
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Portfolio Website
+**Personal Brand Showcase**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+- ✅ 3D animations with Three.js
+- ✅ Interactive particle effects
+- ✅ Modern glassmorphism design
+
+[🔗 Live Demo](https://hariskonane-portfolio.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🎯 More Projects
+
+<a href="https://github.com/hariskokane?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience & Achievements
+
+<table>
+<tr>
+<th>🏢 Experience</th>
+<th>🏆 Achievements</th>
+</tr>
+<tr>
+<td>
+
+### Web Dev Intern @ Mind IT
+*July 2024 – Aug 2024*
+
+- 📈 Boosted page load speed by **20%**
+- ⚡ Reduced dev time by **30%**
+- 👥 Enhanced user engagement by **25%**
+- 🤝 Collaborated in 5-member team
+
+</td>
+<td>
+
+### 🥇 Hackathon Champion
+- 🏆 **Winner** - Smart Industry Hackathon 4.0
+- 🎯 **Finalist** - EY Techathon 5.0
+- 🎤 **Cluster Finalist** - TATA Crucible Quiz 2024
+- 📊 **NCAT Rank 3249** (All India)
+
+</td>
+</tr>
+</table>
+
+---
+
+## � Certifications
+
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java%20Programming-Udemy-blue?style=for-the-badge)](https://www.udemy.com/)
+[![Python](https://img.shields.io/badge/Python%20Programming-Horizon%20Tech-yellow?style=for-the-badge)]()
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hariskokane">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hariskokane0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/hariskokane">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Dream Big. Code Hard. Build the Future." 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,50:4ECDC4,100:FF6B6B&height=100&section=footer" width="100%"/>
+
+<!-- Snake Animation -->
+![Snake animation](https://raw.githubusercontent.com/hariskokane/hariskokane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
