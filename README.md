@@ -116,25 +116,6 @@ const haris = {
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=radical&count_private=true" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=radical" width="49%" alt="Streak"/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskokane&theme=react-dark" width="100%" alt="Activity Graph"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskokane&layout=compact&theme=radical" width="45%" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariskokane&theme=radical" width="53%" alt="Profile Summary"/>
-  
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
