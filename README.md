@@ -35,6 +35,12 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=hariskokane&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS)
   
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hariskokane&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
+  <br/>
+  
   **🎓 B.Tech in Computer Science & Engineering (2022 – 2026)**
   
   **🏆 Hackathon Champion** | **🤖 AI Developer** | **🌐 Full-Stack Engineer**
@@ -111,6 +117,32 @@ const haris = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hariskokane&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskokane&theme=radical&hide_border=true&background=0D1117" width="49%" />
+  </a>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskokane&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
+  </a>
+  
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskokane&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&hide_border=true" width="100%" />
 
 </div>
 
